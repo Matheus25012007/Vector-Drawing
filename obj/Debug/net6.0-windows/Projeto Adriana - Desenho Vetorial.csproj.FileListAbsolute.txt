@@ -1,0 +1,387 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.g.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\ref\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.baml
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.exe
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.deps.json
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.runtimeconfig.json
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.AssemblyReference.cache
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.g.cs
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\App.g.cs
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.baml
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.baml
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.baml
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.baml
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.g.resources
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfoInputs.cache
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfo.cs
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CoreCompileInputs.cache
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.genruntimeconfig.cache
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\ref\Projeto Adriana - Desenho Vetorial.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\App.baml
+D:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CopyComplete
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.exe
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.deps.json
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.runtimeconfig.json
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.AssemblyReference.cache
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.g.cs
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\App.g.cs
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\App.baml
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.baml
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.baml
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.baml
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.baml
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.g.resources
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfoInputs.cache
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfo.cs
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CoreCompileInputs.cache
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CopyComplete
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.genruntimeconfig.cache
+E:\projeto\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\ref\Projeto Adriana - Desenho Vetorial.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Abstractions.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Extensions.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Helpers.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.IOC.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.MVVM.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.WPF.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\protobuf-net.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\protobuf-net.Core.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Management.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Abstractions.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Extensions.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Helpers.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.IOC.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.MVVM.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.WPF.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\protobuf-net.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\protobuf-net.Core.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.CodeDom.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Management.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\PanAndZoom.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Wpf.Controls.PanAndZoom.dll
+D:\projeto\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Wpf.MatrixExtensions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Extensions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.Helpers.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.IOC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.MVVM.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Haley.WPF.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\PanAndZoom.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\protobuf-net.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\protobuf-net.Core.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Wpf.Controls.PanAndZoom.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\Wpf.MatrixExtensions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\App.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Janela_Desenho.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Meus_Projetos.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Novo_Projeto.baml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.g.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto Adriana - Desenho Vetorial\obj\Debug\net6.0-windows\ref\Projeto Adriana - Desenho Vetorial.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.exe
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.deps.json
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.runtimeconfig.json
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Abstractions.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Extensions.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Helpers.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.IOC.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.MVVM.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.WPF.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\PanAndZoom.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\protobuf-net.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\protobuf-net.Core.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Management.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Wpf.Controls.PanAndZoom.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Wpf.MatrixExtensions.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.AssemblyReference.cache
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Janela_Desenho.baml
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Janela_Desenho.g.cs
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\App.g.cs
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\App.baml
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Meus_Projetos.baml
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Novo_Projeto.baml
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.g.resources
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfoInputs.cache
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfo.cs
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CoreCompileInputs.cache
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CopyComplete
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.genruntimeconfig.cache
+D:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\ref\Projeto Adriana - Desenho Vetorial.dll
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.AssemblyReference.cache
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\App.g.cs
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+E:\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.AssemblyReference.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.exe
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.deps.json
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.runtimeconfig.json
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Abstractions.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Extensions.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Helpers.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.IOC.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.MVVM.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.WPF.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\PanAndZoom.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\protobuf-net.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\protobuf-net.Core.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Wpf.Controls.PanAndZoom.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Wpf.MatrixExtensions.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Janela_Desenho.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Janela_Desenho.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\App.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Meus_Projetos.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Novo_Projeto.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.g.resources
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfoInputs.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfo.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto .0650CA5E.Up2Date
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.genruntimeconfig.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\Desenho Vetorial\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\ref\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.exe
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.deps.json
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.runtimeconfig.json
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Abstractions.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Extensions.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.Helpers.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.IOC.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.MVVM.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Haley.WPF.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\PanAndZoom.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\protobuf-net.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\protobuf-net.Core.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Wpf.Controls.PanAndZoom.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\Wpf.MatrixExtensions.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.AssemblyReference.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Janela_Desenho.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Janela_Desenho.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Meus_Projetos.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Novo_Projeto.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial_MarkupCompile.lref
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\App.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Meus_Projetos.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Novo_Projeto.baml
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.g.resources
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfoInputs.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.AssemblyInfo.cs
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto .0650CA5E.Up2Date
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\refint\Projeto Adriana - Desenho Vetorial.dll
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.pdb
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\Projeto Adriana - Desenho Vetorial.genruntimeconfig.cache
+C:\Users\Matheus Marinho\Desktop\Projetos para colocar no GitHub\ProjetoAdriana-DesenhoVetorial\obj\Debug\net6.0-windows\ref\Projeto Adriana - Desenho Vetorial.dll

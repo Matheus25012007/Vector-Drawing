@@ -1,0 +1,251 @@
+﻿<Page x:Class="Projeto_Adriana___Desenho_Vetorial.Novo_Projeto"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Projeto_Adriana___Desenho_Vetorial"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Novo_Projeto">
+    <Page.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" StrokeDashArray="1 2" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" SnapsToDevicePixels="true" StrokeThickness="1"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <Style x:Key="Botao_Novo_Projeto" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" CornerRadius="20" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <StackPanel>
+
+        <TextBlock Text="Criar Novo Projeto"
+             Foreground="White"
+             FontSize="28"
+             HorizontalAlignment="Left"
+             Margin="0,0,0,20"
+             FontFamily="Calibri Light"/>
+
+        <StackPanel Orientation="Horizontal">
+
+            <Border Width="400"
+                             Height="200">
+
+
+
+                <Border.Background>
+
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+
+                        <GradientStop Color="Red" Offset="0.0"/>
+                        <GradientStop Color="Yellow" Offset="1"/>
+
+                    </LinearGradientBrush>
+
+                </Border.Background>
+
+                <Border.Clip>
+
+                    <RectangleGeometry RadiusX="10"
+                                 RadiusY="10"
+                                 Rect="0,0,400,200"/>
+
+                </Border.Clip>
+
+                <Grid>
+
+                    <StackPanel>
+
+                        <TextBlock Text="Criatividade é tudo &#x0a;Desenhe Agora"
+                             Foreground="White"
+                             FontSize="28"
+                             Margin="20,10,10,0"/>
+
+                        <TextBlock Text="Exemplos de desenhos:"
+                             Foreground="White"
+                             FontSize="17"
+                             Margin="20,10,10,0"/>
+
+
+
+                    </StackPanel>
+                    <Image  Width="150"
+                            Height="150" 
+                            Source="/Imagem 4.png"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Bottom" 
+                            Margin="10,0,10,3"/>
+
+                    <Image  Width="123"
+                            Height="120" 
+                            Source="/Imagem 5.png"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Bottom" 
+                            Margin="26,0,0,10"/>
+
+
+
+                </Grid>
+
+            </Border>
+
+            <Border Width="200" Height="200"
+              CornerRadius="10"
+              Margin="45,0,0,0">
+
+                <Border.Background>
+
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+
+                        <GradientStop Color="Red" Offset="0.0"/>
+                        <GradientStop Color="Purple" Offset="1"/>
+
+                    </LinearGradientBrush>
+
+                </Border.Background>
+                <Button x:Name="Btn_Novo_Projeto" Style="{DynamicResource Botao_Novo_Projeto}" Content="Novo Projeto" Margin="10,10,10,10" FontFamily="Calibri Light" FontSize="33" Foreground="White" Click="Btn_Novo_Projeto_Click">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+
+                            <GradientStop Color="Red" Offset="0.0"/>
+                            <GradientStop Color="Purple" Offset="1"/>
+
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+            </Border>
+
+        </StackPanel>
+
+
+        <StackPanel>
+
+            <StackPanel.Resources>
+
+                <Style  TargetType="{x:Type Border}">
+
+                    <Setter Property="Margin" Value="15,0,0,0"/>
+
+                </Style>
+
+            </StackPanel.Resources>
+
+            <TextBlock  Text="Ideias de Projetos: "
+                  Foreground="White"
+                  FontSize="24"
+                  HorizontalAlignment="Left"
+                  Margin="0,0,0,20" FontFamily="Calibri Light"/>
+
+            <StackPanel Orientation="Horizontal">
+
+                <Border Width="150"
+                  Height="150"
+                  Background="Gold"
+                  CornerRadius="10"
+                  Margin="0">
+
+                    <Image  Width="130"
+         Height="149" 
+         Source="/Imagem 6.png"
+         HorizontalAlignment="Center"
+         VerticalAlignment="Top" 
+         Margin="0,10,0,0"/>
+                </Border>
+
+                <Border Width="150"
+                        Height="150"
+                        Background="Red"
+                        CornerRadius="10">
+
+                    <Image  Width="130"
+                            Height="124" 
+                            Source="/Imagem 7.png"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"/>
+
+                </Border>
+
+                <Border Width="150"
+                        Height="150"
+                        Background="Orange"
+                        CornerRadius="10">
+
+                    <Image  Width="156"
+                            Height="130" 
+                            Source="/Imagem 8.png"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"/>
+
+
+                </Border>
+
+
+                <Border Width="150"
+                        Height="150"
+                        Background="Brown"
+                        CornerRadius="10">
+
+                    <Image  Width="130"
+                            Height="130" 
+                            Source="/Imagem 9.png"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center" RenderTransformOrigin="0.42,0.462"/>
+                </Border>
+
+
+            </StackPanel>
+
+        </StackPanel>
+
+    </StackPanel>
+
+</Page>

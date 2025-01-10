@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Projeto_Adriana___Desenho_Vetorial</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Imagem 1.png" />
+    <None Remove="Imagem 2.png" />
+    <None Remove="Imagem 3.png" />
+    <None Remove="Imagem 4.png" />
+    <None Remove="Imagem 5.png" />
+    <None Remove="Imagem 6.png" />
+    <None Remove="Imagem 7.png" />
+    <None Remove="Imagem 8.png" />
+    <None Remove="Imagem 9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Haley.WPF" Version="5.4.3" />
+    <PackageReference Include="MaterialDesignColors" Version="2.1.4" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Wpf.Controls.PanAndZoom" Version="2.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Imagem 1.png" />
+    <Resource Include="Imagem 2.png" />
+    <Resource Include="Imagem 3.png" />
+    <Resource Include="Imagem 4.png" />
+    <Resource Include="Imagem 5.png" />
+    <Resource Include="Imagem 6.png" />
+    <Resource Include="Imagem 7.png" />
+    <Resource Include="Imagem 8.png" />
+    <Resource Include="Imagem 9.png" />
+  </ItemGroup>
+
+</Project>
