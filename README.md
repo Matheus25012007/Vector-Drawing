@@ -26,7 +26,7 @@ File Formats: JSON, PNG
 Screenshots 📸
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/Interface.png" alt="Tela Inicial" width="45%" />
-  <img src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/Tela2.png" alt="Tela 2" width="45%" />
+  <img src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/video.mp4" alt="Tela 2" width="45%" />
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
