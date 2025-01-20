@@ -29,9 +29,3 @@ Screenshots 📸
   <img src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/Tela2.png" alt="Tela 2" width="45%" />
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-  <video width="45%" controls>
-    <source src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/video.mp4" type="video/mp4">
-  </video>
-</div>
-
