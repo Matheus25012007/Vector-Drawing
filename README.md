@@ -35,6 +35,3 @@ Screenshots 📸
   </video>
 </div>
 
-
-<img src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/Tela2.png" alt="Tela 2" width="45%" />
-
