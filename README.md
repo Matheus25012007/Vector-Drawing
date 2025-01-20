@@ -7,6 +7,7 @@ Save as an image. 🖼️
 Export/Import in JSON format for future editing. 📁
 Customize line thickness and color. 🎨
 Use a freehand drawing option. ✍️
+
 pt-br:
 Aplicativo de desenho vetorial desenvolvido durante o primeiro ano do curso Técnico em Informática, utilizando C# e WPF, com uma interface programada em XAML. O projeto permite aos usuários:
 
